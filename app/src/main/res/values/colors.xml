@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#009688</color>
+    <color name="textColorPrimary">#F5F5F5</color>
+    <color name="colorPrimaryDark">#00796B</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="background">#E8F5E9</color>
+    <color name="primary_text_color">@android:color/holo_blue_dark</color>
+    <color name="secondary_text_color">@android:color/secondary_text_light</color>
+    <color name="small_text_color">#00838F</color>
+    <color name="tab_background_selected">#E8F5E9</color>
+    <color name="tab_background_unselected">#c2d7d9</color>
+    <color name="tab_text_color">#333837</color>
+    <color name="itemTitleTextColor">#001230</color>
+    <color name="reviewStarColor">#ffaa00</color>
+    <color name="itemDetailsColor">#b90f504a</color>
+</resources>

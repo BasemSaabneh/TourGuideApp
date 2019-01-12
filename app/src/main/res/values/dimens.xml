@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tab_max_width">0dp</dimen>
+    <dimen name="tab_indicator_height">4dp</dimen>
+    <dimen name="tab_padding_start">12dp</dimen>
+    <dimen name="tab_padding_end">12dp</dimen>
+    <dimen name="padding1">1dp</dimen>
+    <dimen name="padding10">10dp</dimen>
+    <dimen name="padding16">16dp</dimen>
+    <dimen name="padding8">8dp</dimen>
+    <dimen name="padding24">24dp</dimen>
+    <dimen name="text_size_16">16sp</dimen>
+    <dimen name="text_size_20">20sp</dimen>
+    <dimen name="text_size_24">24sp</dimen>
+    <dimen name="text_size_28">28sp</dimen>
+    <dimen name="list_height">110dp</dimen>
+    <dimen name="img_width">40dp</dimen>
+    <dimen name="img_height">00dp</dimen>
+    <dimen name="star_size">18dp</dimen>
+    <dimen name="item_img_height">200dp</dimen>
+    <dimen name="item_container_height">100dp</dimen>
+    <dimen name="zero">0dp</dimen>
+    <dimen name="grid_col_width">250dp</dimen>
+    <dimen name="grid_col_height">250dp</dimen>
+    <dimen name="grid_items_spacing">2dp</dimen>
+</resources>

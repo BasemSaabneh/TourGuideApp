@@ -1,0 +1,203 @@
+<resources>
+    <string name="app_name">Holy Land - Palestine</string>
+    <string name="tab_city">Cities</string>
+    <string name="tab_food">Food</string>
+    <string name="tab_heritage">Heritage</string>
+    <string name="tab_holy">Holy</string>
+    <string name="tab_map">History</string>
+
+    <string name="food_falafel">Hummus and Falafel</string>
+    <string name="food_falafel_location">Every Place in Palestine</string>
+    <string name="food_falafel_Reviews">4</string>
+    <string name="food_falafel_overview">Falafel grew to become a common form of street food or fast food in the Middle East</string>
+    <string name="food_falafel_provider">Talal Falafel and Hummus</string>
+    <string name="food_falafel_price">4.5</string>
+    <string name="food_musakhan">Musakhan</string>
+    <string name="food_musakhan_location">Jenin</string>
+    <string name="food_musakhan_overview">is a Palestinian cuisine dish, composed of roasted chicken baked with onions, sumac, allspice, saffron, and fried pine nuts served over taboon bread. It is also known as muhammar  It is often considered the national dish of Palestine</string>
+    <string name="food_musakhan_Reviews">5</string>
+    <string name="food_musakhan_provider">Palestine</string>
+    <string name="food_maqluba">Maqluba</string>
+    <string name="food_maqluba_location">Jenin</string>
+    <string name="food_maqluba_Reviews">4</string>
+    <string name="food_maqluba_overview">Maqluba is usually served with either yogurt or a simple Arab salad (salata Arabia) of diced tomato, cucumber, parsley, and lemon juice, often mixed with a tahina sauce.</string>
+    <string name="food_maqluba_provider">*</string>
+    <string name="food_maqluba_price">12</string>
+    <string name="review">Review:</string>
+    <string name="highlights">Highlights</string>
+    <string name="overview">OverView</string>
+    <string name="food_kanafeh">Kanafeh</string>
+    <string name="food_kanafeh_location">Nablus</string>
+    <string name="food_kanafeh_Reviews">5</string>
+    <string name="food_kanafeh_overview">a traditional Arab dessert made with thin noodle-like pastry, or alternatively fine semolina dough, soaked in sweet, sugar-based syrup, and typically layered with cheese, or with other ingredients such as clotted cream or nuts.</string>
+    <string name="food_kanafeh_provider">Deserts Shops</string>
+    <string name="food_kanafeh_price">2.5</string>
+    <string name="food_qatayef_price">1.4</string>
+    <string name="food_qatayef_provider">Desert Shop</string>
+    <string name="food_qatayef_overview">an Arab dessert commonly served during the month of Ramadan, a sort of sweet dumpling filled with cream or nuts.</string>
+    <string name="food_qatayef">Qatayef</string>
+    <string name="food_qatayef_location">Nablus- Ramallah- Palestine</string>
+    <string name="food_qatayef_Reviews">3</string>
+    <string name="holy_aqsa">Al-Aqsa Mosque</string>
+    <string name="holy_aqsa_location">Old City of Jerusalem- Palestine</string>
+    <string name="holy_aqsa_Reviews">5</string>
+    <string name="holy_aqsa_overview">Al-Aqsa Mosque is also referred to as Al-Qibli Mosque on account of a particular building within it, the Al-Qibli Chapel (al-Jami\' al-Aqsa or al-Qibli, or Masjid al-Jumah or al-Mughata)</string>
+    <string name="holy_sepulchre">Church of the Holy Sepulchre</string>
+    <string name="holy_sepulchre_location">Old City of Jerusalem- Palestine</string>
+    <string name="holy_sepulchre_Reviews">5</string>
+    <string name="holy_sepulchre_overview">The church contains, according to traditions dating back to at least the fourth century, the two holiest sites in Christianity: the site where Jesus of Nazareth was crucified,at a place known as \"Calvary\" or \"Golgotha\", and Jesus\'s empty tomb, where he is said to have been buried and resurrected</string>
+    <string name="holy_nativity">Church of the Nativity</string>
+    <string name="holy_nativity_location">Bethlehem, West Bank - Palestine</string>
+    <string name="holy_nativity_Reviews">5</string>
+    <string name="holy_nativity_overview">Greek Orthodox Church, Armenian Apostolic Church, and Roman Catholic Church with minor Coptic Orthodox and Syriac Orthodox rights</string>
+    <string name="holy_dom">Dome of the Rock</string>
+    <string name="holy_dom_location">Jerusalem - Palestine</string>
+    <string name="holy_dom_Reviews">4</string>
+    <string name="holy_dom_overview">It was initially completed in 691 CE at the order of Umayyad Caliph Abd al-Malik during the Second Fitna, built on the site of the Roman temple of Jupiter Capitolinus, which had in turn been built on the site of the Second Jewish Temple, destroyed during the Roman Siege of Jerusalem in 70 CE</string>
+    <string name="holy_baha">Bahá\'í gardens</string>
+    <string name="holy_baha_location">Haifa and around Acre</string>
+    <string name="holy_baha_Reviews">3</string>
+    <string name="holy_baha_overview">The Terraces of the Bahá\'í Faith, also known as the Hanging Gardens of Haifa, are garden terraces around the Shrine of the Báb on Mount Carmel in Haifa</string>
+    <string name="city_jerusalem">Jerusalem</string>
+    <string name="city_jerusalem_location">Occupied Palestine</string>
+    <string name="city_jerusalem_Reviews">5</string>
+    <string name="city_jerusalem_overview">The Capital Of Palestine</string>
+    <string name="city_ramallah">Ramallah</string>
+    <string name="city_ramallah_location">West Bank</string>
+    <string name="city_ramallah_Reviews">4</string>
+    <string name="city_ramallah_overview">Is a Palestinian city in the central West Bank located 10 km (6 miles) north of Jerusalem at an average elevation of 880 meters (2,890 ft) above sea level, adjacent to al-Bireh.</string>
+    <string name="city_gaza_location">East of Palestine</string>
+    <string name="city_gaza_Reviews">5</string>
+    <string name="city_gaza">Gaza Strip</string>
+    <string name="city_gaza_overview">Is a self-governing Palestinian territory on the eastern coast of the Mediterranean Sea</string>
+    <string name="city_acre">Acre</string>
+    <string name="city_acre_location">North of Occupied Palestine</string>
+    <string name="city_acre_overview">spelled as Akko; Akka is a city in the coastal plain region of Occupied Palestine</string>
+    <string name="city_acre_Reviews">5</string>
+    <string name="city_jaffa">Jaffa</string>
+    <string name="city_jaffa_location">Occupied Palestine</string>
+    <string name="city_jaffa_Reviews">4</string>
+    <string name="city_jaffa_overview">Jaffa, in Hebrew Yafo, or in Arabic Yaffa , About this sound Yāfō (help·info), also called Japho or Joppa),</string>
+    <string name="city_haifa">Haifa</string>
+    <string name="city_haifa_location">Occupied Palestine</string>
+    <string name="city_haifa_Reviews">4</string>
+    <string name="city_haifa_overview">Haifa ,Hefa ,Arabic: hayfa</string>
+    <string name="city_nablus">Nablus</string>
+    <string name="city_nablus_location">Northern of West Bank</string>
+    <string name="city_nablus_Reviews">4</string>
+    <string name="city_nablus_overview">Located between Mount Ebal and Mount Gerizim, it is the capital of the Nablus Governorate and a Palestinian commercial and cultural center</string>
+    <string name="city_jenin">Jenin</string>
+    <string name="city_jenin_location">Northern of West Bank</string>
+    <string name="city_jenin_Reviews">3</string>
+    <string name="city_jenin_overview">It serves as the administrative center of the Jenin Governorate and is a major center for the surrounding towns</string>
+    <string name="heritage_woman">A woman from Ramallah, c. 1929-1946</string>
+    <string name="heritage_bedouin">Bedouin woman in Jerusalem, 1880s</string>
+    <string name="heritage_majdali">Majdali weaving. Gaza 1950\'s</string>
+    <string name="heritage_village">Majdali weaving. Gaza 1950\'s</string>
+    <string name="heritage_dress">Front of dress (qabbeh) sold as cushion cover, Ramallah, 2000.</string>
+    <string name="heritage_stitch">Modern couching stitch from Bayt Jalla traditionally used on panels of malak wedding dress.</string>
+    <string name="heritage_wedding">Doll in wedding-dress typical of Ramallah area popular before 1948. Made by YWCA project in Jalazone RC. c. 2000.</string>
+    <string name="map_1916">1916–1922 World War I administration of Palestine.</string>
+    <string name="map_1937">1937 official proposal for partition.</string>
+    <string name="map_1947">1947 United Nations Partition Plan for Palestine.</string>
+    <string name="map_1947_2">1947 Actual Mandatory Palestine.</string>
+    <string name="map_1948">1948–1967 The Jordanian-annexed West Bank.</string>
+    <string name="map_1967">1967–1994 During the Six-Day War, Israel captured the West Bank, the Gaza Strip, and the Golan Heights.</string>
+    <string name="map_1994">1994–2006 Under the Oslo Accords.</string>
+    <string name="map_2006">2006–present: After the Israeli disengagement from Gaza .</string>
+    <string-array name="food_falafel_highlights">
+        <item>Best Falafel and Hummus Shop ever</item>
+        <item>Amazing taste</item>
+        <item>popular , regular , Palestinian traditional Food</item>
+    </string-array>
+    <string-array name="food_musakhan_highlights">
+        <item>Musakhan considered the national dish of Palestine</item>
+        <item>Musakhan is a dish that one typically eats with one hands.</item>
+        <item>It is usually presented with the chicken on top of the bread, and could be served with soup.</item>
+    </string-array>
+    <string-array name="food_maqluba_highlights">
+        <item>A traditional Arab dish.</item>
+        <item>The dish includes meat, rice, and fried vegetables placed in a pot, which is then flipped upside down when served.</item>
+    </string-array>
+    <string-array name="food_kanafeh_highlights">
+        <item>Dessert.</item>
+        <item>The dish includes dough, sugar, cheese, almonds, pistachios, rose water, kaymak, etc.</item>
+        <item>The world\'s largest plate of the dessert was made in Antakya, Turkey, in 2017</item>
+    </string-array>
+    <string-array name="food_qatayef_highlights">
+        <item>Dessert.</item>
+        <item>unsalted cheese, or a mixture of hazelnuts, walnuts, almonds, pistachios, raisins, powdered sugar, vanilla extract, and cinnamon</item>
+    </string-array>
+    <string-array name="holy_aqsa_highlights">
+        <item>The third holiest site in Islam </item>
+        <item>The mosque was built on top of the Temple Mount, known as Haram esh-Sharif in Islam</item>
+        <item>The mosque is located in close proximity to historical sites significant in Judaism and Christianity, most notably the site of the Second Temple, the holiest site in Judaism. </item>
+        <item>Construction by the Umayyads </item>
+    </string-array>
+    <string-array name="holy_sepulchre_highlights">
+        <item>Called the Church of the Resurrection or Church of the Anastasis by Orthodox Christians </item>
+        <item>The tomb is enclosed by the 19th-century shrine, called the Aedicule Edicule. </item>
+        <item>The Status Quo, a 150-year-old understanding between religious communities, applies to the site </item>
+    </string-array>
+    <string-array name="holy_nativity_highlights">
+        <item>known as the Roman Catholic Church </item>
+        <item>The grotto is the oldest site continuously worshipped in Christianity, and the basilica is the oldest major church in the Holy Land.  </item>
+        <item>The Church of the Nativity, while remaining basically unchanged since the Justinian reconstruction</item>
+        <item>The site is also on UNESCO List of World Heritage in Danger.</item>
+        <item>The Church of the Nativity is a World Heritage site and was the first to be listed under Palestine by UNESCO.</item>
+    </string-array>
+    <string-array name="holy_dom_highlights">
+        <item>The Dome of the Rock is in its core one of the oldest extant works of Islamic architecture. </item>
+        <item>The original dome collapsed in 1015 and was rebuilt in 1022–23.</item>
+        <item>The Dome of the Rock is in its core one of the oldest extant works of Islamic architecture</item>
+        <item>The site\'s great significance for Muslims derives from traditions connecting it to the creation of the world and to the belief that the Prophet Muhammad\'s Night Journey to heaven started from the rock at the center of the structure.</item>
+    </string-array>
+    <string-array name="holy_baha_highlights">
+        <item>The architect is Fariborz Sahba from Iran, the structural engineers are Karban and Co. from Haifa. </item>
+        <item>Fariborz Sahba began work in 1987 designing the gardens and oversaw construction.</item>
+        <item>The gardens have elements of the Persian gardens of Shiraz, Iran, the Nishat Bagh gardens of Kashmir, India and English gardens.</item>
+        <item>The gardens are linked by a set of stairs flanked by twin streams of running water cascading down the mountainside through the steps and terrace bridges</item>
+    </string-array>
+    <string-array name="city_jerusalem_highlights">
+        <item> It is one of the oldest cities in the world.  </item>
+        <item>Considered holy to the three major Abrahamic religions—Judaism, Christianity, and Islam.</item>
+        <item>The gardens have elements of the Persian gardens of Shiraz, Iran, the Nishat Bagh gardens of Kashmir, India and English gardens.</item>
+        <item>Both Israel and the Palestinian Authority claim Jerusalem as their capital.</item>
+        <item>During its long history, Jerusalem has been destroyed at least twice.</item>
+        <item>Jerusalem was named as "Urusalim" on ancient Egyptian tablets.</item>
+    </string-array>
+    <string-array name="city_ramallah_highlights">
+        <item>Currently serves as the de facto administrative capital of the Palestinian National Authority </item>
+        <item>amallah was historically an Arab Christian town.</item>
+        <item>Ramallah is composed of \"Ram\", meaning height and "Allah", the Arabic word for God</item>
+    </string-array>
+    <string-array name="city_gaza_highlights">
+        <item>The territories of Gaza and the West Bank are separated from each other by Israeli territory </item>
+        <item>Both fell under the jurisdiction of the Palestinian Authority.</item>
+        <item>The territory is 41 kilometers (25 mi) long, and from 6 to 12 kilometers</item>
+        <item>Population is not free to leave or enter the Gaza Strip, nor allowed to freely import or export goods</item>
+    </string-array>
+    <string-array name="city_acre_highlights">
+        <item>The city occupies an important location, as it sits on the coast of the Mediterranean Sea. </item>
+        <item>Traditionally linking the waterways and commercial activity with the Levant.</item>
+        <item>This location helped it become one of the oldest cities in the world, </item>
+    </string-array>
+    <string-array name="city_jaffa_highlights">
+        <item>Jaffa is famous for its association with the biblical stories of Jonah, Solomon and Saint Peter as well as the mythological story of Andromeda and Perseus, and later for its oranges.  </item>
+        <item>The town was mentioned in Egyptian sources and the Amarna letters as Yapu</item>
+        <item>Mythology says that it is named for Yafet, one of the sons of Noah. </item>
+    </string-array>
+    <string-array name="city_haifa_highlights">
+        <item>The city of Haifa forms part of the Haifa metropolitan area.</item>
+        <item>Built on the slopes of Mount Carmel, the settlement has a history spanning more than 3,000 years.</item>
+    </string-array>
+    <string-array name="city_nablus_highlights">
+        <item>containing the An-Najah National University, one of the largest Palestinian institutions of higher learning, and the Palestinian stock-exchange</item>
+        <item>The population is predominantly Muslim, with small Christian and Samaritan minorities. </item>
+        <item>The city was named by the Roman Emperor Vespasian in 72 CE as Flavia Neapolis </item>
+    </string-array>
+    <string-array name="city_jenin_highlights">
+        <item>Jenin municipality was established in 1886 under the Ottoman.</item>
+        <item>The city has a monument honoring German pilots shot down in Jenin during the First World War which incorporates an original wooden propeller</item>
+    </string-array>
+</resources>
